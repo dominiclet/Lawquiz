@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 from random import randint
 
 
-TOKEN = "1078456189:AAFUHlvqFpqLUqUPezNx2_0l1_fRZuxK1Ro"
+TOKEN = ""
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 
